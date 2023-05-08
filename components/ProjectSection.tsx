@@ -42,7 +42,7 @@ const ProjectSection = () => {
         Proyectos
         <hr className="w-6 h-1 mx-auto my-4 bg-orange-500 border-0 rounded"></hr>
       </h1>
-      <div className='flex flex-col space-y-20'>
+      <div className='flex flex-col space-y-20 mb-8'>
         {
           projects.map((project, idx) => {
             return (
