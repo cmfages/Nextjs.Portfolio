@@ -28,8 +28,9 @@ const FormSection = () => {
     left: '50%',
     transform: 'translate(-50%, -50%)',
     width: 400,
-    bgcolor: 'background.paper',
-    border: '2px solid #000',
+    bgcolor: '#fde68a',
+    border: '2px solid #fbbf24',
+    borderRadius: '5px',
     boxShadow: 24,
     p: 4,
   };
@@ -120,7 +121,6 @@ const FormSection = () => {
               </button>
             </form>
 
-
             <Modal
               open={open}
               onClose={handleClose}
@@ -136,7 +136,7 @@ const FormSection = () => {
                   Muchas gracias por su tiempo.
                 </Typography>
                 <button
-                  className='text-neutral-100 font-semibold px-6 py-3 bg-orange-500 rounded shadow hover:bg-orange-600'
+                  className='flex justify-center text-neutral-100 font-semibold px-6 py-3 mt-4 bg-orange-500 rounded shadow hover:bg-orange-600'
                   onClick={handleClose}
                 >
                   Entendido
