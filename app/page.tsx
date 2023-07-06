@@ -8,8 +8,8 @@ export default function Home() {
     <main className="mx-auto max-w-3xl px-4 sn:px-6 md:max-w-5xl">
       <HeroSection />
       <AboutSection />
-      <ProjectSection />
-      <FormSection />
+      <ProjectSection />  
     </main>
   )
 }
+//<FormSection />
