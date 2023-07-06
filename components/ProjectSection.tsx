@@ -4,6 +4,7 @@ import Link from 'next/link'
 import { BsGithub, BsArrowUpRightSquare } from 'react-icons/bs'
 import SlideUp from './SlideUp'
 
+
 const projects = [
   {
     name: 'Calculadora',
