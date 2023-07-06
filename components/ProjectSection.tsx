@@ -32,6 +32,13 @@ const projects = [
     image: '/react-router-testing.png',
     github: 'https://github.com/cmfages/challenge-gd-form',
     link: 'https://cmfages.github.io/challenge-gd-form/'
+  },
+  {
+    name: 'Maqueta de sitio web',
+    description: 'Maqueta realizada a modo de práctica de una web de agencia digital con cursos y proyectos y sus opiniones.',
+    image: '/react-router-testing.png',
+    github: 'https://github.com/cmfages/Figma-practice',
+    link: 'https://www.figma.com/proto/4yzoK2pICe6hchaG1S17ri/Untitled?page-id=0%3A1&type=design&node-id=1-3&viewport=948%2C512%2C0.68&t=FpoaLl3RsVPDFVhu-1&scaling=min-zoom&mode=design'
   }
 ]
 
