@@ -3,13 +3,20 @@ import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBYo5nY-a_-DCNUM7bobAvPSFXpnaj0NgM",
-  authDomain: "cmf-portfolio.firebaseapp.com",
-  projectId: "cmf-portfolio",
-  storageBucket: "cmf-portfolio.appspot.com",
-  messagingSenderId: "437444663554",
-  appId: "1:437444663554:web:6fd745ecfc9729803b8a1b",
-  measurementId: "G-D4B8B5G8WW"
+  apiKey: "AIzaSyBftvATlLOZxBjuFCsOKxE66awJ7c0llAo",
+
+  authDomain: "cmf-portfolio2.firebaseapp.com",
+
+  projectId: "cmf-portfolio2",
+
+  storageBucket: "cmf-portfolio2.appspot.com",
+
+  messagingSenderId: "291956370007",
+
+  appId: "1:291956370007:web:89975d0d06fff768541112",
+
+  measurementId: "G-J2712E6BPZ"
+
 };
 
 export const app = initializeApp(firebaseConfig);
