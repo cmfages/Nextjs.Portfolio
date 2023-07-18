@@ -40,6 +40,13 @@ const projects = [
     image: '/figma-practice-preview.png',
     github: 'https://github.com/cmfages/Figma-practice',
     link: 'https://www.figma.com/proto/4yzoK2pICe6hchaG1S17ri/Untitled?page-id=0%3A1&type=design&node-id=1-3&viewport=948%2C512%2C0.68&t=FpoaLl3RsVPDFVhu-1&scaling=min-zoom&mode=design'
+  },
+  {
+    name: 'Resto web app',
+    description: 'Diseño y desarrollo del lado visual para una app de un restaurant, desde un prototipo maquetado en Figma.',
+    image: 'https://raw.githubusercontent.com/cmfages/resto-webapp/main/resto-web-preview.png',
+    github: 'https://github.com/cmfages/resto-webapp',
+    link: 'https://cmfages.github.io/resto-webapp/'
   }
 ]
 
