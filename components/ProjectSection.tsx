@@ -44,7 +44,7 @@ const projects = [
   {
     name: 'Resto web app',
     description: 'Diseño y desarrollo del lado visual para una app de un restaurant, desde un prototipo maquetado en Figma.',
-    image: 'https://raw.githubusercontent.com/cmfages/resto-webapp/main/resto-web-preview.png',
+    image: '/resto-web-preview.png',
     github: 'https://github.com/cmfages/resto-webapp',
     link: 'https://cmfages.github.io/resto-webapp/'
   }
