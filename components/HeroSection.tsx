@@ -16,7 +16,7 @@ const HeroSection = () => {
           <p className='text-lg mt-4 mb-6 md:text-2xl'>
             Soy{" "}
             <span className='font-semibold text-orange-500'>
-              Desarrollador Frontend{" "}
+              Desarrollador{" "}
             </span>
             <span>
               desde Corrientes, Argentina, ¡en busqueda de nuevos retos!
