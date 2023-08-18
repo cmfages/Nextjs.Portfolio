@@ -36,7 +36,7 @@ const AboutSection = () => {
               Hola, mi nombre es Christian y me encuentro{" "}
               <span className='font-bold'>{'ancioso'}</span> y
               <span className='font-bold'>{' motivado'}</span> de seguir creciendo como
-              <span className='font-semibold text-orange-500'> Desarrollador Frontend</span>.
+              <span className='font-semibold text-orange-500'> Desarrollador</span>.
             </p>
             <br />
             <p>
@@ -56,8 +56,8 @@ const AboutSection = () => {
               <br />
               Por otra parte, respecto a mis habilidades listadas a continuación,
               me encuentro encaminado a aprender sobre tecnologías mobile como
-              así también en tecnologías de la <span className='font-bold'>Web3</span>, ya que me encuentro aprendiendo
-              <span className='font-bold'> Solidity</span>.
+              así también en tecnologías de la plataforma de <span className='font-bold'>.NET</span>, ya que me encuentro aprendiendo
+              <span className='font-bold'> C#</span>.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
